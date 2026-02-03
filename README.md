@@ -7,5 +7,11 @@ The project focuses on reinforcing core Java fundamentals through hands-on exerc
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 
 
-  <h2></h2>
+  <h2> 📁 Project Structure </h2>
+
+Main.java → Application entry point
+
+Matrix logic using 2D arrays
+
+User input handled via Scanner
   
