@@ -22,15 +22,15 @@ A Java console application developed to strengthen core Java fundamentals, focus
 
 <h2> ✨ Key Features </h2>
 
--Dynamic matrix creation based on user input
+•Dynamic matrix creation based on user input
 
--Population of a 2D array at runtime
+•Population of a 2D array at runtime
 
--Iteration and visualization of matrix elements
+•Iteration and visualization of matrix elements
 
--Clear separation of logic and execution flow
+•Clear separation of logic and execution flow
 
--Readable and maintainable code structure
+•Readable and maintainable code structure
 
 <h2> ▶️ Sample Execution </h2>
 
