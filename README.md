@@ -3,7 +3,8 @@
 A Java console application developed to strengthen core Java fundamentals, focusing on 2D arrays (matrices), control flow, and clean input handling.
 
 <h2> 🛠️ Technologies </h2>
-* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 <h2> 📌 Overview </h2>
 
 •This project demonstrates practical usage of:
